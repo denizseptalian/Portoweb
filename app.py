@@ -154,7 +154,7 @@ with st.container():
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
                 "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
-                f"<img src='experience.png' alt='exp' style='width: 50px; height: 50px;'>"
+                f"<img src='https://github.com/denizseptalian/Portoweb/blob/main/experience.png' alt='exp' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Experience</strong></p>"
                 "<p style='margin: 3px 0;'>1+ years</p>"
@@ -168,7 +168,7 @@ with st.container():
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
                 "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
-                f"<img src='education.png' alt='edu' style='width: 50px; height: 50px;'>"
+                f"<img src='https://github.com/denizseptalian/Portoweb/blob/main/education.png' alt='edu' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
                 "<p style='margin: 3px 0;'>Bachelors Degree</p>"
