@@ -343,7 +343,7 @@ with st.container():
 
 # ---- PROJECTS ----
 repo = {
-    "RAWG": "https://github.com/Kimchi21/RAWG.io_Game-Data-Analysis",
+    "RAWG": "denizseptalian/Portoweb/main/RAWG.png",
     "AutoSales": "https://github.com/Kimchi21/Data-Analysis_Portfolio/tree/main/Automobile%20Sales",
     "SSD": "https://github.com/Kimchi21/Solid-State-Drives_Analysis",
     "Laz_Shopee": "https://github.com/Kimchi21/Lazada-vs.-Shopee_Sentiment-Analysis",
