@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-logo = Image.open("assets/logo.png")
+logo = Image.open("logo.png")
 st.set_page_config(page_title="Kim Marcial Vallesteros", page_icon=logo, layout="wide")
 
 # Use local CSS
@@ -48,8 +48,8 @@ st.markdown(
 
 
 # ---- HEADER SECTION ----
-profile_pic = Image.open("assets/profile_pic2.png")
-about_pic = Image.open("assets/about_pic.png")
+profile_pic = Image.open("profile_pic2.png")
+about_pic = Image.open("about_pic.png")
 
 buttons = {
     "Resume": "http://tinyurl.com/3hz4pfym",               ### To be updated whenever I have a new version
@@ -154,7 +154,7 @@ with st.container():
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
                 "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
-                f"<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/experience.png' alt='exp' style='width: 50px; height: 50px;'>"
+                f"<img src='experience.png' alt='exp' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Experience</strong></p>"
                 "<p style='margin: 3px 0;'>1+ years</p>"
@@ -168,7 +168,7 @@ with st.container():
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
                 "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
-                f"<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/education.png' alt='edu' style='width: 50px; height: 50px;'>"
+                f"<img src='education.png' alt='edu' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
                 "<p style='margin: 3px 0;'>Bachelors Degree</p>"
@@ -396,7 +396,7 @@ with st.container():
             </style>
             <div class="project-container">
             <div class="project-box">
-                <img src="https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/RAWG.png" alt="RAWG" class="project-img">
+                <img src="RAWG.png" alt="RAWG" class="project-img">
                 <p style='margin: 15px 0 0 0;'>This analysis delves into the vast realm of gaming data, specifically focusing on insights derived from RAWG.io, a comprehensive video game database.</p>
                 <br>
                 <a href="{repo['RAWG']}" project>
@@ -455,7 +455,7 @@ with st.container():
             </style>
             <div class="project-container">
             <div class="project-box">
-                <img src="https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/ssd.png" alt="SSD" class="project-img">
+                <img src="ssd.png" alt="SSD" class="project-img">
                 <p style='margin: 15px 0 0 0;'>This analysis dives into Amazon's diverse array of Solid State Drives (SSDs), aiming to offer insights that benefit prospective buyers in their decision-making process.</p>
                 <br>
                 <a href="{repo['SSD']}" project>
@@ -514,7 +514,7 @@ with st.container():
             </style>
             <div class="project-container">
             <div class="project-box">
-                <img src="https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/sperm.png" alt="Sperm" class="project-img">
+                <img src="sperm.png" alt="Sperm" class="project-img">
                 <p style='margin: 15px 0 0 0;'>To address male infertility, a model is trained to classify and detect sperm head morphological quality, potentially streamlining and standardizing the assessment process.</p>
                 <br>
                 <a href="{repo['Sperm']}" project>
@@ -574,7 +574,7 @@ with st.container():
             </style>
             <div class="project-container">
             <div class="project-box">
-                <img src="https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/LS.png" alt="Lazada vs. Shopee" class="project-img">
+                <img src="LS.png" alt="Lazada vs. Shopee" class="project-img">
                 <p style='margin: 15px 0 0 0;'>A sentiment analysis approach for analyzing two of the most popular e-commerce platforms in the Philippines by how how users perceive, experience and engage with these platforms.</p>
                 <br>
                 <a href="{repo['Laz_Shopee']}" project>
@@ -634,7 +634,7 @@ with st.container():
             </style>
             <div class="project-container">
             <div class="project-box">
-                <img src="https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/AS.png" alt="Automobile Sales" class="project-img">
+                <img src="AS.png" alt="Automobile Sales" class="project-img">
                 <p style='margin: 15px 0 0 0;'>This analysis delves into a range of automobile sales transactions and forecasting of automobile sales for the rest of the year based on data available from Kaggle.</p>
                 <br>
                 <a href="{repo['AutoSales']}" project>
@@ -693,7 +693,7 @@ with st.container():
             </style>
             <div class="project-container">
             <div class="project-box">
-                <img src="https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/raisin.png" alt="Raisin" class="project-img">
+                <img src="raisin.png" alt="Raisin" class="project-img">
                 <p style='margin: 15px 0 0 0;'>A stacked ensemble model for classifying and predicting raisin grains based on physical characteristics that could potentially aid the traditional sorting of raisins by hand.</p>
                 <br>
                 <a href="{repo['Raisin']}" project>
@@ -788,7 +788,7 @@ st.write("##")
 st.markdown(
     "<div>"
     "<div style='display: flex; flex-direction: column; align-items: center;'>"
-    "<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/logo.png' alt='Phone' style='width: 50px; height: 50px;'>"
+    "<img src='logo.png' alt='Phone' style='width: 50px; height: 50px;'>"
     "<p style='margin: 5px 0;'>© 2024 Kim Marcial A. Vallesteros</p>"
     "</div>"
     "</div>",
