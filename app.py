@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 logo = Image.open("logo.png")
-st.set_page_config(page_title="Kim Marcial Vallesteros", page_icon=logo, layout="wide")
+st.set_page_config(page_title="Denis Septalian Alhamda", page_icon=logo, layout="wide")
 
 # Use local CSS
 def local_css(file_name):
@@ -19,7 +19,7 @@ st.markdown(
 st.markdown(
     """
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #000000;">
-        <a class="navbar-brand" href="#">Kim Marcial A. Vallesteros</a>
+        <a class="navbar-brand" href="#">Denisa Septalian</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
