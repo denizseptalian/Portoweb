@@ -173,9 +173,8 @@ with st.container():
                 f"<img src='https://imgur.com/A6QVy4w.png' alt='edu' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
-                "<p style='margin: 3px 0;'><strong>Bachelors Degree</p>"
-                "<p style='margin: 3px 0;'><strong>Data Science</p>"
-                "<p style='margin: 3px 0;'>Universitas Pembangunan Nasional Veteran Jawa Timur</p>"
+                "<p style='margin: 3px 0;'>Bachelors Degree</p>"
+                "<p style='margin: 3px 0;'>Data Science</p>"
                 "</div>"
                 "</div>",
                 unsafe_allow_html=True
