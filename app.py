@@ -159,8 +159,8 @@ with st.container():
                 f"<img src='https://imgur.com/zjXKy3h.png' alt='exp' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Experience</strong></p>"
-                "<p style='margin: 3px 0;'>1+ years</p>"
-                "<p style='margin: 3px 0;'>Data Analytics</p>"
+                "<p style='margin: 3px 0;'>3+ years</p>"
+                "<p style='margin: 3px 0;'>Data Scientist</p>"
                 "</div>"
                 "</div>",
                 unsafe_allow_html=True
@@ -174,7 +174,8 @@ with st.container():
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
                 "<p style='margin: 3px 0;'>Bachelors Degree</p>"
-                "<p style='margin: 3px 0;'>Computer Engineering</p>"
+                "<p style='margin: 3px 0;'>Data Science</p>"
+                "<p style='margin: 3px 0;'>Universitas Pembangunan Nasional Veteran Jawa Timur</p>"
                 "</div>"
                 "</div>",
                 unsafe_allow_html=True
