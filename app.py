@@ -55,7 +55,7 @@ buttons = {
     "Resume": "http://tinyurl.com/3hz4pfym",               ### To be updated whenever I have a new version
     "LinkedIn": "https://www.linkedin.com/in/denisaseptalian/",
     "GitHub": "https://github.com/denizseptalian",
-    "Gmail": "mailto:denizseptalian@gmail.com"
+    "Gmail": "mailto:denizseptalian@gmail.com",
     "Kaggel": "https://www.kaggle.com/denizseptalian"
 }
 
