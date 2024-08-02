@@ -85,9 +85,9 @@ with st.container():
 
     with right_column:
         st.markdown("<h4 style='text-align: center;'>Hello, I'm</h4>", unsafe_allow_html=True)
-        st.markdown("<h1 style='text-align: center;'>Kim Marcial A. Vallesteros</h1>", unsafe_allow_html=True)
-        st.markdown("<h4 style='text-align: center;'>Data Analyst</h4>", unsafe_allow_html=True)
-        st.markdown("<h5 style='text-align: center;'>&quot;Asking the right questions paves the way for discovery. And asking the wrong ones? Well, it still leads to discovery, albeit on a different path.&quot;</h5>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center;'>Denisa Septalian Alhamda</h1>", unsafe_allow_html=True)
+        st.markdown("<h4 style='text-align: center;'>Data Science</h4>", unsafe_allow_html=True)
+        st.markdown("<h5 style='text-align: center;'>&quot;I am a data person with expertise in machine learning, including predictive modeling, NLP analytics, and time series analysis. I have developed and implemented effective data-driven solutions for a variety of business needs, using cutting-edge techniques to optimize results and provide the best insights.&quot;</h5>", unsafe_allow_html=True)
         st.markdown(
             f"""
             <style>
