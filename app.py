@@ -130,7 +130,7 @@ with st.container():
         f"<a href='{buttons['LinkedIn']}' target='_blank'><img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png' alt='LinkedIn' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
         f"<a href='{buttons['GitHub']}' target='_blank'><img src='https://cdn-icons-png.flaticon.com/128/5968/5968866.png' alt='GitHub' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
         f"<a href='{buttons['Gmail']}' target='_blank'><img src='https://cdn-icons-png.flaticon.com/128/732/732200.png' alt='Gmail' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
-        f"<a href='{buttons['Kaggel']}' target='_blank'><img src='https://www.flaticon.com/free-icon/letter-k_3541224?term=k&related_id=3541224' alt='Kaggel' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
+        f"<a href='{buttons['Kaggel']}' target='_blank'><img src='https://github.com/denizseptalian/Portoweb/blob/main/RAWG.png' alt='Kaggel' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
         "</div>",
         unsafe_allow_html=True
         )
