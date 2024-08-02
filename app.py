@@ -53,9 +53,10 @@ about_pic = Image.open("about_pic.png")
 
 buttons = {
     "Resume": "http://tinyurl.com/3hz4pfym",               ### To be updated whenever I have a new version
-    "LinkedIn": "https://www.linkedin.com/in/kimmarcialvallesteros/",
-    "GitHub": "https://github.com/Kimchi21",
-    "Gmail": "mailto:kimmarcialv@gmail.com"
+    "LinkedIn": "https://www.linkedin.com/in/denisaseptalian/",
+    "GitHub": "https://github.com/denizseptalian",
+    "Gmail": "mailto:denizseptalian@gmail.com"
+    "Kaggel : "https://www.kaggle.com/denizseptalian"
 }
 
 with st.container():
@@ -129,6 +130,7 @@ with st.container():
         f"<a href='{buttons['LinkedIn']}' target='_blank'><img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png' alt='LinkedIn' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
         f"<a href='{buttons['GitHub']}' target='_blank'><img src='https://cdn-icons-png.flaticon.com/128/5968/5968866.png' alt='GitHub' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
         f"<a href='{buttons['Gmail']}' target='_blank'><img src='https://cdn-icons-png.flaticon.com/128/732/732200.png' alt='Gmail' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
+        f"<a href='{buttons['Kaggel']}' target='_blank'><img src='https://www.flaticon.com/free-icon/letter-k_3541224?term=k&related_id=3541224.png' alt='Kaggel' style='width: 35px; height: 35px; margin: 0 10px;'></a>"
         "</div>",
         unsafe_allow_html=True
         )
