@@ -169,7 +169,7 @@ with st.container():
         with col2:
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
-                "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
+                "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 250px; margin: 10px;'>"
                 f"<img src='https://imgur.com/A6QVy4w.png' alt='edu' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
