@@ -56,7 +56,7 @@ buttons = {
     "LinkedIn": "https://www.linkedin.com/in/denisaseptalian/",
     "GitHub": "https://github.com/denizseptalian",
     "Gmail": "mailto:denizseptalian@gmail.com"
-    "Kaggel : "https://www.kaggle.com/denizseptalian"
+    "Kaggel": "https://www.kaggle.com/denizseptalian"
 }
 
 with st.container():
