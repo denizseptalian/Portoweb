@@ -182,8 +182,10 @@ with st.container():
 
         st.write("##")
         st.write(
-            """
-Didorong oleh minat terhadap bidang data science dan prediksi, saya memiliki dasar pengetahuan yang kuat dan keinginan kuat untuk kinerja serta perhatian terhadap detail. Alat teknis yang paling sering saya gunakan adalah Python, Microsoft Excel, dan KNIME. Saya berspesialisasi dalam analisis data, visualisasi data, manipulasi data, prediksi, NLP, klasifikasi, dan clustering, yang bertujuan untuk mengekstraksi wawasan yang bermakna dari data. Saya berdedikasi untuk belajar terus menerus dan inovasi. Semangat saya untuk belajar menjadi landasan perjalanan saya dalam data science.
+            """Didorong oleh minat terhadap bidang data science dan prediksi, saya memiliki dasar pengetahuan yang kuat dan keinginan kuat untuk kinerja serta perhatian terhadap detail. 
+            Alat teknis yang paling sering saya gunakan adalah Python, Microsoft Excel, dan KNIME.
+            Saya berspesialisasi dalam analisis data, visualisasi data, manipulasi data, prediksi, NLP, klasifikasi, dan clustering, yang bertujuan untuk mengekstraksi wawasan yang bermakna dari data.
+            Saya berdedikasi untuk belajar terus menerus dan inovasi. Semangat saya untuk belajar menjadi landasan perjalanan saya dalam data science.
             """
         )
 
